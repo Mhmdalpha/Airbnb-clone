@@ -15,7 +15,7 @@ git clone https://github.com/KChakhalyan/airbnb-clone.git
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-airbnb-clone.git
+git https://github.com/Mhmdalpha/Airbnb-clone.git
 ```
 
 ### Install packages
